@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding, Video Games, Anime, Movies
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  Facebook: Lanz Miguel
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
