@@ -5,7 +5,6 @@
 - 📫 How to reach me:
   Facebook: Lanz Miguel
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 LnzMigll14/LnzMigll14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
